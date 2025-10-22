@@ -1,5 +1,4 @@
 # Author: Sanan Alam
-# Date: October 2025
 # Tracks S&P 500 growth over time using Python, yfinance, and matplotlib
 
 import yfinance as yf
@@ -59,3 +58,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
